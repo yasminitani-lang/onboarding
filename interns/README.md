@@ -13,6 +13,7 @@ the right order, and remove the conflict markers.
 | Mohamed | Cloud & DevOps | mohamed-azo |
 | Sameer | Full Stack | iSamirTech |
 | Shahd | Cybersecurity | shahedaseap376-lab |
+| Yasmin | Software Engineering | yasmin-itani|
 | Zaid | Cloud and DevOps | ZaidoGamerTech |
 
 ## Adding your file
